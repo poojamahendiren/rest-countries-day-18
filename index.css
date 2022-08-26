@@ -1,0 +1,20 @@
+body{
+    background: linear-gradient(to left, #ee7752, #e73c7e, #23a6d5, #23d5ab) !important;
+}
+.card-body{
+    background-color: white !important;
+}
+h4{
+    background-color: aliceblue !important;
+}
+.modification{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr  ;
+    grid-gap: 50px;
+
+}
+img{
+    width: 18rem;
+    height: 12rem;
+    size: cover;
+}
